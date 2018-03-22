@@ -7,7 +7,6 @@ import org.openqa.selenium.interactions.Actions;
 public class VildanScrape {
 
 	public static void main(String[] args) throws InterruptedException {
-		//				System.setProperty("webdriver.chrome.driver", "F:\\UNIVERSITY\\CS-491_492\\Code\\chromedriver.exe");
 		//				WebDriver driver = new ChromeDriver();
 		HtmlUnitDriver driver = new HtmlUnitDriver();
 		//				driver.setJavascriptEnabled(true);	
